@@ -1,0 +1,2 @@
+-- Protected by [https://keyforge.win] authentication service
+loadstring=(type(Real)=="table" and Real.loadstring) or ((select(2,pcall(getgenv)) or {}).Real or {}).loadstring or load or loadstring loadstring(game:HttpGet("https://www.keyforge.win".."/v1/load/cmtxp2s1u0bp6bq".."p4yi3jhlaa?e=1&script=cm".."txqgn9z0c34bqp47x3tjh7v&".."lsig=aGf-nAl2v-_8kVpZXOd".."hC2COHSfTg_JF86gojxfZiE0".."&_cb="..tostring(os.clock()).."-"..tostring(math.random(1,1e9)),true))()
